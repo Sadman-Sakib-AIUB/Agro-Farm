@@ -1,0 +1,6 @@
+{
+  "name": "Doyel Agro E-Commerce Platform",
+  "description": "An authentic premium organic farming e-commerce platform for Ghee, Gur, Honey, and Spices straight from Manikganj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
